@@ -1,3 +1,3 @@
->El 2 de noviembre se arranca en esta plataforma.
+# Marketing en UNCordobaX
 
-Este curso se brinda a través de la plataforma [EDX](https://courses.edx.org), por lo general son cursos gratuitos y para certificar hay que pagar por el certificado en sí.
+- Ver curso: [Marketing enfocado en la estrategia de servicios](/cursos/procesos/uncordobax/mcm001/)

@@ -1,3 +1,3 @@
-# Procesos {docsify-ignore-all}
+# Procesos en UNCordobaX {docsify-ignore-all}
 
-- Ver cursos en [UNCordobaX](/cursos/procesos/uncordobax/)
+- Ver curso: [Gestión de Operaciones](/cursos/procesos/uncordobax/mcm002/)

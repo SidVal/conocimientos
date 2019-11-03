@@ -1,4 +1,4 @@
-# Marketing enfocado en la estrategia de servicios {docsify-ignore-all}
+# Gestión de Operaciones {docsify-ignore-all}
 
 ## Índice de temas y contenido del curso
 
