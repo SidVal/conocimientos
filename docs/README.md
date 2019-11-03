@@ -11,5 +11,5 @@ De ahí ha ido mutando teniendo en cuenta que se realizarán más cursos y habr�
 ## Índice de Conocimientos
 
 - [Desarrollo web](https://sidval.github.io/dev.web/)
-- Photoshop[/cursos/photoshop/]
-- Marketing[/cursos/marketing/]
+- [Photoshop](/cursos/photoshop/)
+- [Marketing](/cursos/marketing/)
