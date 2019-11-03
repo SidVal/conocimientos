@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Conocimientos Gratis</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Contenidos gratis: desarrollo web, photoshop, marketing y mucho más">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://sidval.github.io/conocimientos/assets/css/vue.css">
+  <link rel="icon" href="/conocimientos/favicon.ico" type="image/x-icon" />
+  
+  <style>
+    a[href^="//"]:after, 
+    a[href^="http://"]:after, 
+    a[href^="https://"]:after {
+      content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/12px-External.svg.png);
+      margin: 0 0 0 5px;
+    }
+
+    a[href^="//sidval.github.io/conocimientos/"]:after, 
+    a[href^="https://sidval.github.io/conocimientos"]:after {
+      content: '';
+      margin: 0;
+    }
+  </style>
+  
+</head>
+  
+<body>
+  <div id="app">Tomara sólo un momento...</div>
+
+  <script>
+    window.$docsify = {
+      executeScript: true,
+      maxLevel: 4,
+      name: 'conocimientos',
+      loadSidebar: true,
+      loadNavbar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      themeColor: '#0f9127',
+      search: 'auto',
+      repo: '', // aún no, es para el enlace directo arriba a la derecha 'https://github.com/SidVal/conocimientos',
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto', // [] or 'auto'
+      placeholder: 'Buscar',
+      noData: '¡Sin Resultados!',
+      depth: 5 },
+      alias: {
+      // '/.*/_sidebar.md': '/_sidebar.md'
+        '.*?/awesome-css-frameworks': 'https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/readme.md',
+        '.*?/awesome-javascript': 'https://raw.githubusercontent.com/sorrycc/awesome-javascript/master/README.md',
+        '.*?/awesome-nodejs': 'https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md',
+        '.*?/react-developer-roadmap': 'https://raw.githubusercontent.com/SidVal/react-developer-roadmap/url-pic/README.md'
+      }
+  }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+
+</body>
+</html>
