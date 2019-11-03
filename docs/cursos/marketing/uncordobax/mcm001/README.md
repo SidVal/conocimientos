@@ -2,29 +2,29 @@
 
 ## Índice de temas y contenido del curso
 
-- [Contexto social y económico](/curso/uncordobax/mcm001/contexto.md)
+- [Contexto social y económico](/cursos/marketing/uncordobax/mcm001/contexto.md)
   - La preeminencia de los servicios en el mundo actual
   - Enfoque teórico-metodológico
-- [Ventajas Competitivas](/curso/uncordobax/mcm001/ventajas.md)
+- [Ventajas Competitivas](/cursos/marketing/uncordobax/mcm001/ventajas.md)
   - Aspectos clave para el desarrollo de ventajas competitivas
   - Primera ventaja: crear valor
   - Segunda ventaja: generar vínculos de largo plazo
   - Tercera ventaja: mantener la satisfacción del cliente
   - Análisis de caso: Emirates
-- [Etapas del Servicio](/curso/uncordobax/mcm001/etapas.md)
+- [Etapas del Servicio](/cursos/marketing/uncordobax/mcm001/etapas.md)
   - El proceso de decisión del consumidor
   - Etapa previa al encuentro de servicio
   - Retroalimentación
   - Etapa del encuentro de servicio
   - Etapa posterior al encuentro de servicio
   - Análisis de caso: Andrés Carne de Res
-- [Encuentro del Servicio](/curso/uncordobax/mcm001/encuentro.md)
+- [Encuentro del Servicio](/cursos/marketing/uncordobax/mcm001/encuentro.md)
   - Modelo de servucción y metáfora del teatro
   - La puesta en escena y el tras bambalinas
   - La línea entre lo visible y lo invisible
-- [El rol del personal de Servicios](/curso/uncordobax/mcm001/personal.md)
+- [El rol del personal de Servicios](/cursos/marketing/uncordobax/mcm001/personal.md)
   - El rol del personal en servicios
   - Propuesta de valor para empleados
-- [Modelo SPC](/curso/uncordobax/mcm001/modelo-spc.md)
+- [Modelo SPC](/cursos/marketing/uncordobax/mcm001/modelo-spc.md)
   - La integración de la estrategia interna con la estrategia externa de la empresa de servicios
   - Ejercicio de integración

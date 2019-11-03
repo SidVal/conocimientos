@@ -1,3 +1,3 @@
->El 2 de noviembre se arranca en esta plataforma.
+# Procesos {docsify-ignore-all}
 
-Este curso se brinda a través de la plataforma [EDX](https://courses.edx.org), por lo general son cursos gratuitos y para certificar hay que pagar por el certificado en sí.
+- Ver cursos en [UNCordobaX](/cursos/procesos/uncordobax/)
