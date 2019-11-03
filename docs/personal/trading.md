@@ -4,7 +4,6 @@
 - [Medium: Trading](https://medium.com/tag/trading)
 - [Medium: Trading System](https://medium.com/tag/trading-system)
 
-
 ## Lecturas
 
 - [Dow Theory of Technical Analysis | Markets | Portfolio Management](http://www.businessmanagementideas.com/markets/technical-analysis/dow-theory-of-technical-analysis-markets-portfolio-management/16998)

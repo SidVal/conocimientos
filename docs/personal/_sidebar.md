@@ -1,6 +1,5 @@
 - <a href="javascript:history.back()">Atrás</a>
-- [Clases](/curso/#diplomatura-en-desarrollo-web)
-- [Unidades](/u/)
+- [Cursos](/cursos/)
 - [Contenido](/c/)
 - [Personal](/personal/)
   - [Ideas](/personal/ideas.md)
