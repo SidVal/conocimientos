@@ -4,7 +4,7 @@
 
 Hay un video muy interesante sobre este tema que recomiendo dedicarle unos miniutos de la vida:
 
-[Video](https://youtu.be/-OiaE6l8ysg ':include :type=iframe width=100% height=400px')
+[Ver Video](https://youtu.be/-OiaE6l8ysg)
 
 >Sin duda, el desarrollo tecnológico y de la web han posibilitado el surgimiento de nuevos formatos de negocios, haciendo emerger nuevas maneras de crear valor y nuevas estrategias organizacionales que redefinen las formas de competencia. Las innovaciones en las ofertas de servicios, al lanzar nuevas formas de satisfacer las necesidades de los clientes, transforman el modo de vivir y trabajar. Por este motivo, las empresas de servicios -grandes y pequeñas- prevalecen en las economías modernas (más del 60% del PBI del mundo se genera en el sector servicios).
 

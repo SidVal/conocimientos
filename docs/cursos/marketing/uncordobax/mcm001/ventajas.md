@@ -1,6 +1,6 @@
 # Ventajas Competitivas
 
-[Video](https://youtu.be/LCwj37Sidlw ':include :type=iframe width=100% height=400px')
+[Ver Video de Introducción a las ventajas competitivas](https://youtu.be/LCwj37Sidlw)
 
 ## Aspectos clave para el desarrollo de ventajas competitivas
 
