@@ -14,7 +14,7 @@ La competitividad de otras empresas es la que lleva a la necesidad de desarrolla
 
 Esta es la pregunta inicial que las empresas de servicios deben plantearse. Saber a quién nos dirigimos es central: no todos los clientes encajan con las capacidades, las tecnologías de prestación y la dirección estratégica de la compañía, por lo tanto, es menester seleccionar el o los segmentos de mercado a los que se apunta.
 
-<div style="background: #e7f9f8 url(../assets/img/clave.png) center no-repeat; background-position: 15px 50%; text-align: left; padding: 5px 20px 5px 45px; border-top: 2px solid #b5d4fe; border-bottom: 2px solid #b5d4fe; color: #000;">
+<div style="background: #e7f9f8 url(./assets/img/clave.png) center no-repeat; background-position: 15px 50%; text-align: left; padding: 5px 20px 5px 45px; border-top: 2px solid #b5d4fe; border-bottom: 2px solid #b5d4fe; color: #000;">
 La segmentación de mercado es un concepto fundamental del marketing y sirve para agrupar a los clientes de tal manera que se pueda obtener similitudes dentro de cada segmento y diferencias entre los que son distintos. Es la naturaleza del servicio la que sugiere, principalmente, las variables que permitirán realizar el enfoque de segmentación.
 </div>
 
