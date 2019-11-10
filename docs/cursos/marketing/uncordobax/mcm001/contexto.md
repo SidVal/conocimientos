@@ -3,6 +3,7 @@
 ## La preeminencia de los servicios en el mundo actual
 
 Hay un video muy interesante sobre este tema que recomiendo dedicarle unos miniutos de la vida:
+
 [Video](https://youtu.be/-OiaE6l8ysg ':include :type=iframe width=100% height=400px')
 
 >Sin duda, el desarrollo tecnológico y de la web han posibilitado el surgimiento de nuevos formatos de negocios, haciendo emerger nuevas maneras de crear valor y nuevas estrategias organizacionales que redefinen las formas de competencia. Las innovaciones en las ofertas de servicios, al lanzar nuevas formas de satisfacer las necesidades de los clientes, transforman el modo de vivir y trabajar. Por este motivo, las empresas de servicios -grandes y pequeñas- prevalecen en las economías modernas (más del 60% del PBI del mundo se genera en el sector servicios).
@@ -21,7 +22,7 @@ El modelo de integración gerencial propone que, teniendo en cuenta el paradigma
 
 Enfocarse en el cliente implica conocerlo, entenderlo, saber de sus preferencias, problemas y necesidades. No es un cliente genérico, tiene un perfil específico que debemos poder definir. En este sentido, el desafío de la empresa está en diseñar una propuesta de valor que se corresponda con las características de sus clientes. Esto significa entonces que, tanto un gerente general de un hotel pequeño como el director de un importante banco, necesitan estar al corriente de la realidad de sus clientes, la eficacia interna de sus operaciones y la productividad de sus empleados.
 
-![Modelo de Integración Gerencial](/assets/img/modelo-integracion-gerencial.png)
+![Modelo de Integración Gerencial](../assets/img/modelo-integracion-gerencial.png)
 
 - Gerencia de Marketing
 Desde el Área de Marketing, la empresa selecciona tipos específicos de clientes a quienes servir, para crear luego relaciones rentables con ellos. Esto se logra a través del diseño de un paquete de servicio (una propuesta de valor), que los clientes deseen comprar. Se trata de lograr una oferta de servicio para el cliente que posea calidad, brinde una solución a sus necesidades y sea percibida con un valor superior a la competencia.  
