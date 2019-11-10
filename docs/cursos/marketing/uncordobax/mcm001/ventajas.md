@@ -73,7 +73,7 @@ Este mapa estará compuesto por nuestros productos y servicios, nuestros aliviad
 * Creadores de alegrías
   * Marcar la diferencia en el mercado
 
-[Plantilla de Canvas](https://view.genial.ly/5c93d7576f346c7226430f44 ':include :type=iframe width=100% height=400px')
+[Plantilla de Canvas](https://view.genial.ly/5c93d7576f346c7226430f44)
 
 ## Crear vinculos de largo plazo con el cliente
 
@@ -114,7 +114,7 @@ La flor del servicio es la herramienta metodológica, mira el siguiente gráfico
 * En una empresa de servicios bien administrada, los pétalos y el centro mantienen su frescura y su forma.
 * La estrategia de posicionamiento de mercado ayuda a determinar cuáles servicios complementarios deberían incluirse.
 
-[La Flor del Servicio](https://view.genial.ly/5c880efd68711f76b98788ec ':include :type=iframe width=100% height=400px')
+[La Flor del Servicio](https://view.genial.ly/5c880efd68711f76b98788ec)
 
 ## Economía de Fidelidad
 
