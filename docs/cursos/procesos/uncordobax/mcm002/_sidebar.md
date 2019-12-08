@@ -1,4 +1,4 @@
 * <a href="javascript:history.back()">Atrás</a>
-* [Clases](/cursos/procesos/uncordobax/mcm002/)
+* [Clases](/cursos/marketing/uncordobax/)
 * [Contenido](/c/)
 * [☆](/medium.md#estrella)
