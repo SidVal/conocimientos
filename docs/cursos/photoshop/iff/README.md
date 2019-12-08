@@ -92,6 +92,101 @@ Para incrustar una imagen dentro de otra.
   - Foto antigua pintada
   - Hacer un retrato de nosotros mismos para trabajar, como la imagen de la mujer. Solo rostro.
 
+#### Clase 9
+
+Con la tarea e imagen de la hojita.
+- Seleccionamos la hoja solamente.
+- Separamos del fondo.
+- Duplicamos las capas
+- Edición --> Deformación de posición libre
+- Hay que fijarla para que no se deforme tanto. En cada extremo se pueden hacer clics para fijarla.
+- Filtro --> Desenfocar, como para darle movimiento
+- Desenfoque de movimiento
+- Desenfoque gauciano, pierde el foco para crear campo de profundidad con lo que no es el objeto desenfocado.
+
+**Retoque de piel**
+- Filtro --> Licuar
+- Deformar hacia adelante.
+- Molinete a la derecha, si tengo la tecla ALT presionada, va hacia la izquierda
+- Congelar máscara, pinta zonas que no queremos que se modifique.
+- <kbd>Crtl</kbd> + <kbd>E</kbd> : Combinar capas (habiendo seleccionado previamente las capas a combinar)
+
+**Retoque de piel**
+- Hacemos con **separación de frecuencia**
+- Divide la imagen por color por un lado y textura por otro lado.
+
+Duplicamos la capa dos veces
+- A una nombramos **textura**
+- A la otra nombramos **color**
+- La capa de color debe estar por debajo de la de textura SIEMPRE.
+- Y siempre tenemos que empezar a "crear" los ajustes de COLOR antes que los de textura.
+
+A la de color aplicamos:
+- Filtro --> Desenfocar --> D. Gausiano
+- Aplicamos desenfoque de 5 (por ejemplo) y hay que acordarse de ese número.
+- Aceptamos y pasamos a la capa de textura
+
+A la capa de textura
+- Vamos a imagen --> Ajuste --> Brillo/contraste
+- Usar heredado le hacemos clic
+- Contraste bajamos a menos 50
+- Aceptamos
+
+En la capa textura: 
+- Vamos a filtro -- Otro -- Paso alto
+- Ponemos 5 (que es el que pusimos en desenfoque) y aceptamos
+
+Vamos a las opciones de fusión, y presionamos "Luz Lineal"
+
+Creamos un grupo para "separación de frecuencia" y ponemos las capas
+- En textura, se trabaja con tapon de clonar, y dureza al 100%
+- En color, se trabaja con pincel corrector, y dureza al 0%
+
+A la separación de capa le aplicamos una mascara de capa, para que podamos ver el original y sombrear con poca opacidad para entregar el trabajo.
+
+Lo convertimos en objeto inteligente
+
+##### Juego de Luces y Sombras
+Vamos a aplicar juego de luces y sombras
+
+Ponemos dos capas de curvas
+- Una de sombras, la otra de luces
+- En sombras opacamos e invertimos la capa
+- En luces, ponemos luz, e invierto la capa
+
+Tarea:
+Retocar la foto de retrato nuestra (propia) Y que le caigan las hojas que sacamos.
+
+#### Clase 10
+
+Creamos un efecto "Polaroid"
+Nuevo 7x7 300 px de resolución
+Fondo Transparente
+
+Despues de crearlo, ir a Imagen >> Tamaño de Lienzo
+
+
+#### Clase 11
+
+**Corrección selectiva**
+
+- Quitar CIAN, agrega rojo
+- Quitar MAG, agrega verde
+- Quitar AMAR, agrega azul
+
+#### Clase 12
+
+**Canales** 
+- Alfa 1, se presiona RGB, ALT y RGB, selecciona todo lo que es LUCES. Y genero Alfa1
+- Para Alfa2, se presiona RGB con ALT, e invierto la selección, entonces estoy seleccionando las SOMBRAS. Y genero ALFA2.
+
+Herramienta muestra de color (cuenta gotas)
+Agregamos la curva
+Canal rojo
+Dedito
+Seleccionamos la muestra a corregir
+Cambia la curva, con el valor "salida", lo llevamos al número que dice la muestra.
+
 ***
 
 ### Videos
