@@ -1,3 +1,3 @@
-# Cursos {docsify-ignore-all}
+# Contenidos {docsify-ignore-all}
 
-*Aún no hay contenido publicado*
+*Aún no hay contenido publicado, puedes ver los [cursos recomendados](/c/cursos.md)*
