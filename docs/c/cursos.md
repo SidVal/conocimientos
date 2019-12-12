@@ -1,4 +1,4 @@
-# Cursos
+# Cursos {docsify-ignore-all}
 
 Recomendaciones de Cursos para hacer en Udemy principalmente, algunos **gratis**, otros muy económicos.
 
