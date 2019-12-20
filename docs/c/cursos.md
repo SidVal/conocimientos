@@ -10,3 +10,7 @@ Recomendaciones de Cursos para hacer en Udemy principalmente, algunos **gratis**
 ### Excel + Finanzas
 - [**Gratis**: MS Excel aplicado a Finanzas y Administración](https://click.linksynergy.com/deeplink?id=oE*30cZRy1k&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fms-excel-aplicado-a-finanzas-y-administracion%2F)
 - [Excel Aplicado al Análisis Financiero](https://click.linksynergy.com/deeplink?id=oE*30cZRy1k&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fexcel-aplicado-al-analisis-financiero%2F)
+
+## Desarrollo Web
+
+- [Listado recomendado de cursos](https://sidval.github.io/dev.web/#/c/cursos)
