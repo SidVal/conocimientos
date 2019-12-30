@@ -5,3 +5,4 @@ Directorio personal, en principio para recopilar información que tengo e ir dis
 - [Antiguos Favoritos](/personal/favs.md)
 - [Ideas que se me ocurren](/personal/ideas.md)
 - [Freelance](/personal/freelance.md)
+- [Temas sobre ecología](/personal/green.md)

@@ -1,6 +1,6 @@
 * <a href="/conocimientos/" target="_self">Inicio</a>
 - [Cursos](/cursos/)
-- [Contenido](/c/)
-- [Personal](/personal/)
-  - [Ideas](/personal/ideas.md)
+- [Contenidos](/c/)
+- [Ideas](/ideas/)
+- [Listas](listas/)
 - [☆](/medium.md#estrella)

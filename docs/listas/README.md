@@ -14,10 +14,10 @@ A raíz del tema de "curar listas" se me ocurrió una idea de mostrar todos los 
 
 Hay temas de GitHub dedicados a éstas listas:
 
-* Tema [awesome](https://github.com/topics/awesome)
-* Tema [awesome-list](https://github.com/topics/awesome-list)
-* Tema [lists](https://github.com/topics/lists)
-* Tema [resources](https://github.com/topics/resources)
+- Tema [awesome](https://github.com/topics/awesome)
+- Tema [awesome-list](https://github.com/topics/awesome-list)
+- Tema [lists](https://github.com/topics/lists)
+- Tema [resources](https://github.com/topics/resources)
 
 Y así hay infinidad de repositorios donde se _curan_ contenidos.
 
@@ -33,6 +33,6 @@ De él surgen otras listas, y el principio de curar listas con ese formato.
 
 ## Listas
 
-* [awesome](/listas/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
-* [awesome-javascript](/listas/awesome-javascript.md)
-* [awesome-nodejs](/listas/awesome-nodejs.md)
+- [awesome](/listas/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
+- [awesome-javascript](/listas/awesome-javascript.md)
+- [awesome-nodejs](/listas/awesome-nodejs.md)
