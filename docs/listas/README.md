@@ -2,7 +2,7 @@
 
 Las listas de enlaces las conocí a través de un repositorio en Github que se denomina: ["Awesome"](https://github.com/sindresorhus/awesome), y si no es el más grande de la comunidad, debe ser uno de los más grandes.
 
-- [Mi proyecto Awesome](/listas#mi-proyecto-awesome)
+- [Mi proyecto Awesome](/listas/#mi-proyecto-awesome)
 - [Listas de Crypto-Life](/listas/crypto.md)
 - [Notas Varias](/listas/notas.md)
 
@@ -29,9 +29,7 @@ Creo que es la lista original: ["Awesome"](https://github.com/sindresorhus/aweso
 
 De él surgen otras listas, y el principio de curar listas con ese formato.
 
-***
-
-## Listas
+## Otras Listas
 
 - [awesome](/listas/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
 - [awesome-javascript](/listas/awesome-javascript.md)
