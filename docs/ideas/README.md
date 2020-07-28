@@ -17,19 +17,19 @@ Página que indexa las ideas que se me ocurren. [_Mirror inicial_](https://githu
 ### Apps
 
 * Suspendidas
-  * Netlify ([avance](https://github.com/SidVal/SidV/issues/11))
-  * Botpress ([avance](https://github.com/SidVal/SidV/issues/13)) 
-  * Just Share it ([avance](https://github.com/SidVal/SidV/issues/25))
+  * Netlify ([avance privado](https://github.com/SidVal/SidV/issues/11))
+  * Botpress ([avance privado](https://github.com/SidVal/SidV/issues/13)) 
+  * Just Share it ([avance privado](https://github.com/SidVal/SidV/issues/25))
 * En línea
-  * [Feedly*No*Img](https://sidval.github.io/feedly-no-img/) ([avance](https://github.com/SidVal/SidV/issues/22))
+  * [Feedly*No*Img](https://sidval.github.io/feedly-no-img/)
   * [Kill Medium's Metabar](https://sidval.github.io/kill-metabar-maximized/)
-  * [Hide Ads](https://sidval.github.io/hide-ads/) - ([avance](https://github.com/SidVal/hide-ads/issues/1))
+  * [Hide Ads](https://sidval.github.io/hide-ads/)
 
 
 ### Contenido Web
 
 * En desarrollo:
-  * Contenido Discourse ([avance](https://github.com/SidVal/SidV/issues/14) - retomado)
+  * Contenido Discourse ([avance privado](https://github.com/SidVal/SidV/issues/14) - retomado)
   * Awesome: https://github.com/SidVal/SidV/issues/24
   * [Help Wanted](https://github.com/SidVal/SidV/issues/20#issuecomment-390309297)
   * [GitHub Estrellados](https://github.com/SidVal/SidV/issues/20#issuecomment-391838514)
@@ -37,8 +37,7 @@ Página que indexa las ideas que se me ocurren. [_Mirror inicial_](https://githu
   * [Feedly-Trending](https://github.com/SidVal/SidV/issues/34)
 * En linea:
   * [Proyecto Dev.Web](https://sidval.github.io/dev.web)
-  * Sitio web del Github/SidV ([avance](https://github.com/SidVal/SidV/issues/23))
 
 ### Programa Win
 
-* Gordo ([avance](https://github.com/SidVal/SidV/issues/19) - suspendido por falta de tiempo)
+* Gordo ([avance privado](https://github.com/SidVal/SidV/issues/19) - suspendido por falta de tiempo)
