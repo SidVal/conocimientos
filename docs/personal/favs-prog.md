@@ -1,4 +1,4 @@
-# Antiguos Favoritos
+# Favoritos de Programación
 
 He re-organizado algunas carpetas de la parte Bookmarks del Chrome, y me daría lástima perder unos favoritos que ya no estoy visitando para nada, así que lanzaré aquí dichos sitios web.
 
