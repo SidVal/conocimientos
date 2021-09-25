@@ -29,6 +29,10 @@ Creo que es la lista original: ["Awesome"](https://github.com/sindresorhus/aweso
 
 De él surgen otras listas, y el principio de curar listas con ese formato.
 
+## Lista de Cripto
+
+Mi propia lista de listas sobre criptomonedas: [Cripto](/listas/notas.md)
+
 ## Otras Listas
 
 - [awesome](/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
