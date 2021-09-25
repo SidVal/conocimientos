@@ -31,6 +31,6 @@ De él surgen otras listas, y el principio de curar listas con ese formato.
 
 ## Otras Listas
 
-- [awesome](/listas/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
-- [awesome-javascript](/listas/awesome-javascript.md)
-- [awesome-nodejs](/listas/awesome-nodejs.md)
+- [awesome](/awesome.md#contents) - La original, aquí mismo sin salir de ésta página.
+- [awesome-javascript](/awesome-javascript.md)
+- [awesome-nodejs](/awesome-nodejs.md)
