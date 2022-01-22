@@ -43,7 +43,7 @@ He cursado distintas ramas técnicas, **programación c#**, **SQL**, y **desarro
 
 ### Contacto
 
-?>Es dificil pasar un medio de contacto y que no lo llenen de spam, así que quien quiera contactarme este es mi correo electrónico: `osvaldolopez[arroba]gmail[punto]com` - Reviso el correo todos los días, si vas a enviarme una consulta, por favor que sea lo más completa posible, y te ayudaré en lo que pueda.
+?>Es dificil pasar un medio de contacto y que no lo llenen de spam, así que quien quiera contactarme complete este [FORMULARIO](https://www.locademiadigital.com/p/contacto.html) y me dice qué necesita - Reviso el correo todos los días, si vas a enviarme una consulta, por favor que sea lo más completa posible, y te ayudaré en lo que pueda.
 
 ## Índice de Conocimientos
 
