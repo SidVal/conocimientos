@@ -4,3 +4,4 @@
 - Ver cursos de [Marketing](/cursos/marketing/)
 - Ver cursos de [Procesos](/cursos/procesos/)
 - Ver cursos de [Photoshop](/cursos/photoshop/)
+- Ver cursos de [Coaching](/cursos/coaching/)
