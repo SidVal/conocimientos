@@ -8,3 +8,6 @@ El aburrimiento es lo peor que nos puede pasar dentro de un aula.
 
 ## Error
 El error es productivo. Feedback efectivo.
+
+## Herramientas
+- Se mencionó PADLET como posibilidad de introducción/presentación del estudiante.
