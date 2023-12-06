@@ -22,6 +22,7 @@
   - Inteligencia Artificial
   - Blockchain
   - Fintech
+- Datos
 
 ## Negocios
 
