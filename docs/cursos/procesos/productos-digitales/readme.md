@@ -33,4 +33,9 @@ Rediseñar productos ya existentes para mejorarlos.
 1. Diseñamos teniendo en cuenta los resultados
 1. Testeamos.
 1. Volvemos a empezar.
-1. 👆 Proceso iterativo
+
+👆 Proceso iterativo
+
+## Video
+
+- [Observe, Test, Iterate, and Learn (Don Norman) - YouTube](https://www.youtube.com/watch?v=JgPppwsocRU)
