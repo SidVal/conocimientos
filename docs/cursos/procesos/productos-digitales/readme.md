@@ -27,9 +27,10 @@ Productos digitales
 Rediseñar productos ya existentes para mejorarlos.
 
 ### ¿Cómo resolvemos problemas?
-Observamos el punto de partida.
-Investigamos a nuestros usuarios y stakeholders.
-Diseñamos teniendo en cuenta los resultados
-Testeamos.
-Volvemos a empezar.
-👆 Proceso iterativo
+
+1. Observamos el punto de partida.
+1. Investigamos a nuestros usuarios y stakeholders.
+1. Diseñamos teniendo en cuenta los resultados
+1. Testeamos.
+1. Volvemos a empezar.
+1. 👆 Proceso iterativo
