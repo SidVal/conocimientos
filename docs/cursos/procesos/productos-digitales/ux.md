@@ -31,3 +31,8 @@ La lista de verificación de Nielsen es una guía con 10 elementos esenciales pa
 10.  Ayuda y documentación contextualizados.
 
 Existen numerosos factores que contribuyen a la usabilidad y la experiencia del usuario. Al seguir estas pautas y asegurar estos elementos en tu producto digital , puedes mejorar significativamente la calidad del producto y la satisfacción de sus usuarios.
+
+## Lecturas
+
+- [Checklist para evitar problemas en el lanzamiento](https://www.torresburriel.com/weblog/2017/03/07/checklist-para-evitar-problemas-en-el-lanzamiento/)
+- [Checklist para hacer análisis de usabilidad. Unos cuantos ejemplos](https://www.torresburriel.com/weblog/2005/01/26/checklist-para-hacer-analisis-de-usabilidad-unos-cuantos-ejemplos-en-la-red/)
