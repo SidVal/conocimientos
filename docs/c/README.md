@@ -45,3 +45,17 @@ Otros temas desarrollados:
 - [Canvas](/c/canvas.md)
 - [Clientes](/c/clientes.md)
 - [Mercado de Valores: Acciones](/c/acciones.md)
+
+***
+
+## Apuntes
+
+Decisiones basadas en datos
+
+>PPDAC
+
+* Problema. Plantear una pregunta con claridad, explicar por qué es problemático, cuantos afecta, a quién afecta. Por qué pasa, a que categoría, mejores opciones, que sucedería sí, hay algo raro o anormal.
+* Plan. Sentarse a planear como abordar el problema. Qué preguntas hay. Qué datos necesitamos. Donde están y estarán. Tengo acceso. Hay suficientes datos. Hay implicaciones éticas.
+* Datos. Qué herramientas usar. Recolectar y estructurar datos. Calidad y precisión de los datos. Limpieza de datos. Dónde están
+* Análisis. Preparar y manipular datos. Encontrar nueva información. Visualizar información.
+* Conclusiones. Comparte tus hallazgos.
