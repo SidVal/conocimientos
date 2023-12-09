@@ -1,5 +1,30 @@
 # Inteligencia Artificial
 
+¿Qué puede hacer la Inteligencia Artificial?
+La prerrogativa principal de la IA es predecir, adivinando cifras futuras basándose en datos pasados y presentes. Por ejemplo, imaginemos una empresa de calefacción.
+
+Después de analizar los patrones en las temporadas más frías, la IA puede predecir que el consumo será mayor durante estos meses, aumentando en consecuencia los ingresos.
+
+¿Cómo comprende la Inteligencia Artificial?
+La IA también tiene la capacidad de entender, interpretar texto, incluso hasta el punto de contestar preguntas de comprensión lectora a partir de la información que ha procesado.
+
+¿Cómo genera la Inteligencia Artificial?
+Finalmente, la IA también puede generar contenido usando herramientas como GPT-3, DALI, Table Diffusion y GATO. Estas herramientas pueden generar texto, imágenes, e incluso contenido auditivo.
+
+¿Qué no puede hacer la Inteligencia Artificial?
+Crear es una habilidad que todavía escapa a la capacidad de la IA. La innovación requiere generar algo completamente nuevo, algo que la IA, que se basa en datos y contenido anteriores, no es capaz de hacer.
+
+¿Puede la Inteligencia Artificial opinionar?
+También es importante destacar que la IA no puede formar opiniones. Una opinión requiere un criterio propio y subjetivo, una facultad que la IA, que procesa datos de manera objetiva, no posee.
+
+¿Qué puede y qué no puede hacer la IA?
+- Sí puede predecir. Adivinar números futuros.
+- Puede clasificar. Segmentar clientes.
+- Puede entender. Comprender un texto. Interpretar textos, libros. Se le puede hacer preguntas de comprensión lectora.
+- Puede generar. GPT-3. DALL-E 2.
+- No puede crear, ya que requiere un conocimiento que tiene la IA, es decir, la innovación porque requiere contenido anterior.
+- Tampoco logra opinar porque requiere criterio propio. Y la IA funciona con datos anteriores.
+
 ## Webs
 
 - https://eightify.app/
