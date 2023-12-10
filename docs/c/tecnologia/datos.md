@@ -2,6 +2,14 @@
 
 _Hay millones de datos, tantos que ya no sé qué carajo hacer con tantos datos_
 
+## Glosario
+
+- [Descarga: Glosario para entender el mundo de Data Science e Inteligencia Artificial](https://drive.google.com/file/d/1PssSEYdw2ul7MteExXlvUH9heY68uaNv/view)
+
+- Data Science es un proceso en el cual se utilizan los datos para obtener información valiosa.
+
+**
+
 ## Ideas relacionadas
 
 - Data Modeling con Jekyll ([avance](https://github.com/SidVal/SidV/issues/7))
@@ -21,6 +29,9 @@ Ampliar tema sobre `Datos`
 - https://openspending.org/
 - http://opendatahandbook.org/
 - http://datahub.io/
+
+***
+
 
 ## Ética de los datos
 
