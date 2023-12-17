@@ -20,3 +20,42 @@
 - [How to price your services as a freelance writer](https://medium.com/swlh/how-to-price-your-services-as-a-freelance-writer-8984d76b3158) ☆  
   ![Hourly Rate](../assets/img/hourly-rate.png)
 - [I have an App Idea… but I’m not a Programmer](https://hackernoon.com/i-have-an-app-idea-but-im-not-a-programmer-77327fe448c3)
+
+## Credencial
+
+Un paso fundamental en la construcción de marca para consultoría es definir tu oferta. Debes **dejar claro quién eres, generar confianza y comunicar tu propósito**, ya que es parte esencial para armar tus credenciales.
+
+Cuáles son las características de unas buenas credenciales
+----------------------------------------------------------
+
+Las credenciales son ese primer documento que necesitas entregar a alguien cuando ofreces tus servicios.
+
+Para construir buenas credenciales debes establecer los siguientes puntos:
+
+*   Dejar claro quién eres
+*   Comunicar tu propósito
+*   Ser claro y conciso
+*   Generar confianza
+*   Tener un _call to action_ claro
+*   Hablar de tu filosofía, experiencia, confiabilidad y equipo.
+
+### Ejemplo de credencial
+
+Veamos un ejemplo de credenciales de presentación.  
+![](https://static.platzi.com/media/articlases/Images/FireShot%20Capture%20028%20-%20%20-%20static.platzi.com.png)  
+![](https://static.platzi.com/media/articlases/Images/FireShot%20Capture%20031%20-%20%20-%20static.platzi.com.png)
+
+Checklist: verifica tus credenciales
+------------------------------------
+
+Con este _checklist_ final asegurarás que tus credenciales tengan los elementos necesarios para mostrar tu marca:
+
+*   Descripción de tu negocio y experiencia
+*   Tu propósito (el de tu hacer)
+*   Disponibilidad, dónde pueden encontrarte
+*   Tu filosofía
+*   Tu capital humano, el equipo
+*   Clientes que han confiado en ti
+*   _Call to action_
+
+?> Fuente: https://platzi.com/cursos/consultoria-producto/
