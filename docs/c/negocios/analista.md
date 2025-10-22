@@ -18,6 +18,7 @@ Vamos a ver una lista curada (por prioridad) con material y qué buscar exactame
 **Lecturas sugeridas:**
 
 * 📖 *BABOK Guide v3* (Business Analysis Body of Knowledge) — Capítulos 1–3 y 5–7 (en especial “Elicitación y Colaboración” y “Gestión de Requisitos”).
+  * Libro en inglés: [Enlace BABOK v3](https://learn.ztu.edu.ua/pluginfile.php/336274/mod_resource/content/1/BABOK_Guide_v3_Member.pdf)
 * Artículo: “How to Gather Business Requirements Effectively” (IIBA Blog o Medium).
 * Guía rápida: “Tipos de requisitos: funcionales, no funcionales y de negocio”.
 
